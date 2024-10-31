@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajayjawanjal
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning web development through youtube
-- 📫 you can reach me through my gamil,linkedln profile,instagram 
+- 📫 you can reach me through my gmail,linkedln profile,instagram 
 - 😄 Pronouns: ...mr
 - ⚡ Fun fact: ...call me sir
 
